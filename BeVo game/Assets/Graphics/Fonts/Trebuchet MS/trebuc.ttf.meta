@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: bc10f1a18e06bfc4dbe1241f1ee29b4f
+=======
+guid: 52fa7ee1b171f284da0d99bb2ae5ef18
+>>>>>>> e39d533c048ddf1110522ac71e78adafbdd08f21
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -11,8 +15,12 @@ TrueTypeFontImporter:
   fontName: Trebuchet MS
   fontNames:
   - Trebuchet MS
+<<<<<<< HEAD
   fallbackFontReferences:
   - {fileID: 12800000, guid: 28d0a71e08e48c14da1ac1339d9c033f, type: 3}
+=======
+  fallbackFontReferences: []
+>>>>>>> e39d533c048ddf1110522ac71e78adafbdd08f21
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
