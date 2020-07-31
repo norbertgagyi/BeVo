@@ -47,25 +47,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11154}
-    - Class: 114
       Script: {instanceID: 11156}
     - Class: 114
-      Script: {instanceID: 11178}
+      Script: {instanceID: 11158}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11180}
     - Class: 114
-      Script: {instanceID: 12084}
+      Script: {instanceID: 11520}
     - Class: 114
-      Script: {instanceID: 12180}
+      Script: {instanceID: 12086}
     - Class: 114
-      Script: {instanceID: 13082}
+      Script: {instanceID: 12182}
     - Class: 114
-      Script: {instanceID: 13166}
+      Script: {instanceID: 13084}
     - Class: 114
-      Script: {instanceID: 13634}
+      Script: {instanceID: 13168}
     - Class: 114
-      Script: {instanceID: 14244}
+      Script: {instanceID: 13636}
+    - Class: 114
+      Script: {instanceID: 14246}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -578,4 +578,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: C:/_projects/_games/BeVo/BeVo game/game.apk
+  playerPath: C:/_projects/_games/BeVo/BeVo game/bevo.apk
